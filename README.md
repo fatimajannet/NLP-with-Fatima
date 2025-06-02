@@ -20,9 +20,9 @@ graph LR
 
 | Part | Topic | Notebook | Article | 
 |------|-------|----------|---------|
-| 1 | Natural Language Processing Basics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link-to-colab1) | [Read Article](https://mahia.hashnode.dev/natural-language-processing-basics) |
-| 2 | Part of Speech Tagging and Named Entity Recognition | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link-to-colab2) | [Read Article](https://mahia.hashnode.dev/nlp-part-of-speech-tagging-and-named-entity-recognition) |
-| 3 | Semantics and Sentiment Analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link-to-colab3) | [Coming Soon]() |
+| 1 | Natural Language Processing Basics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/drive/1XQfSxXrfOoTmM5TyIJPAtT8A5U0CvXNB?usp=sharing)) | [Read Article](https://mahia.hashnode.dev/natural-language-processing-basics) |
+| 2 | Part of Speech Tagging and Named Entity Recognition | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/drive/1RaymFgcTJFIu0sSKX0uXCs6saDdRULy5)) | [Read Article](https://mahia.hashnode.dev/nlp-part-of-speech-tagging-and-named-entity-recognition) |
+| 3 | Semantics and Sentiment Analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://mahia.hashnode.dev/nlp-semantics-and-sentiment-analysis)) | [Read Article](https://mahia.hashnode.dev/nlp-part-of-speech-tagging-and-named-entity-recognition) |
 | 4 | Topic modeling | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [Coming Soon]() |
 | 5 | Deep Learrning for NLP | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [Coming Soon]() |
 
