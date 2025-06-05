@@ -24,7 +24,7 @@ graph LR
 | 2 | Part of Speech Tagging and Named Entity Recognition | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RaymFgcTJFIu0sSKX0uXCs6saDdRULy5) | [Read Article](https://mahia.hashnode.dev/nlp-part-of-speech-tagging-and-named-entity-recognition) |
 | 3 | Semantics and Sentiment Analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eFF5qcGfVelbP6ePTv3I6v_AhelsMvSZ) | [Read Article](https://mahia.hashnode.dev/nlp-part-of-speech-tagging-and-named-entity-recognition) |
 | 4 | Topic modeling | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tQuSQi7wXjYltm2FpdAzlruT7VZEfiul?usp=sharing) | [Read Article](https://mahia.hashnode.dev/nlp-topic-modeling) |
-| 5 | Deep Learrning for NLP | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [Coming Soon]() |
+| 5 | Deep Learrning for NLP | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nuy_AYbtuf78HMe5uRv0gLdjk6UUiYWw) | [Read Article](https://mahia.hashnode.dev/deep-learning-for-nlp) |
 
 ## 🛠️ Quick Start
 
